@@ -10,9 +10,10 @@ Repositorio de respuestas de la materia: Introducción al Aprendizaje No Supervi
 ## GRUPO Nº24
 
 ## INTEGRANTES:
-   - [x] Nico Rosales 
-   - [x] Daniel Rubio
+
+- [x] Daniel Rubio
    - [x] Diana Fonnegra
+   - [x] Nico Rosales    
    - [x] Clarisa Manzone
 
 ----   
