@@ -28,4 +28,16 @@ En este repositorio se encuentran las entregas con resultados correspondientes a
 ----
 
 # Documentación:
-## Lab
+## Laboratorio:
+
+
+![image](https://user-images.githubusercontent.com/11649711/189544417-e078bb04-a14b-4acd-b8b9-c734d1b3c7c2.png)
+
+![image](https://user-images.githubusercontent.com/11649711/189544428-538b9979-c40b-40d4-a94d-b05728b159f9.png)
+
+
+![image](https://user-images.githubusercontent.com/11649711/189544444-3e5c0e77-e1a1-4eec-8991-498fce2c09af.png)
+
+
+
+
