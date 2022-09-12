@@ -38,6 +38,9 @@ En este repositorio se encuentran las entregas con resultados correspondientes a
 
 ![image](https://user-images.githubusercontent.com/11649711/189544444-3e5c0e77-e1a1-4eec-8991-498fce2c09af.png)
 
+![image](https://user-images.githubusercontent.com/11649711/189766199-25330654-a791-48ea-b2c9-67eba0696315.png)
+
+![image](https://user-images.githubusercontent.com/11649711/189766228-b330f00e-ebb6-462d-a744-668150873c6d.png)
 
 
 
