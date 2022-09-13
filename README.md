@@ -27,10 +27,8 @@ En este repositorio se encuentran las entregas con resultados correspondientes a
    - [x] sklearn
 ----
 
-# Documentación:
-## Laboratorio:
-
-
+# Documentación
+Proceso seguido en el laboratorio:
 
 ## 1- Análisis exploratorio - Conjunto de datos FIFA 2022.
 
