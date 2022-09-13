@@ -46,13 +46,16 @@ Proceso seguido en el laboratorio:
 ----
 
 ## 3- Uso de técnicas de clustering: k-Medias - jerárquico.
-- [x] k-Medias 
+- [x] Clustering k-Medias/Sin Normalizar 
 ![image](https://user-images.githubusercontent.com/11649711/189766199-25330654-a791-48ea-b2c9-67eba0696315.png)
-
-- [x] k-Medias y PCA
+----
+- [x] Clustering k-Medias & PCA
 ![image](https://user-images.githubusercontent.com/11649711/189949531-cd5ccbac-f3bd-4de2-bb41-9780e4d216e0.png)
-
-- [x] Cluster jerárquico 
+----
+- [x] Clustering Mean-Shift & PCA
+![image](https://user-images.githubusercontent.com/11649711/189962322-8c556245-60d7-46b6-93f2-7c24ab2c4921.png)
+----
+- [x] Clustering jerárquico 
 ![image](https://user-images.githubusercontent.com/11649711/189948504-4f9cfc87-3b44-4ee7-89c2-36da85f3218f.png)
 
-
+----
